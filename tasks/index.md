@@ -29,16 +29,16 @@ Detailed to-do lists for each project milestone.
 
 ## Solicitor Required ⚖️
 
-Tasks that need legal support:
+**[📋 Full Legal Checklist →](legal-checklist)** — All solicitor tasks consolidated
 
-1. **Lease review & negotiation** — Before signing any lease
-2. **Company formation** — Partnership agreement, shareholder rights
-3. **Investor agreements** — Term sheets, equity contracts (Musharakah structure)
-4. **Planning conditions review** — Understanding any restrictions
-5. **Insurance requirements** — Public liability, employer's liability
-6. **Contracts** — Court supplier contracts, contractor agreements
+Key phases requiring legal support:
+1. **Company formation** — Shareholder agreement, Ltd setup
+2. **Investor agreements** — Musharakah-compliant contracts
+3. **Lease review** — Before signing any lease
+4. **Contracts** — Court supplier, contractors
+5. **Pre-launch** — Employment, T&Cs, GDPR
 
-**Recommendation:** Engage solicitor with commercial property AND company formation experience. Consider Islamic finance familiarity for investor agreements.
+**Estimated legal budget:** £4.5-10.5k total
 
 ---
 
