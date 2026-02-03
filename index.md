@@ -8,7 +8,9 @@
 | Location | Luton, UK |
 | Timeline | Open 2026 |
 
-📊 **[Project Status →](project-status)** — Live milestone tracker
+📊 **[Project Status →](project-status)** — Live milestone tracker  
+✅ **[Task Lists →](tasks/)** — Detailed to-dos for each phase  
+⚖️ **[Legal Checklist →](tasks/legal-checklist)** — All solicitor requirements
 
 ## 🔴 Priority Actions
 
@@ -47,8 +49,22 @@
 
 ## Key Contacts
 
-| Who | For |
-|-----|-----|
-| David Charles | Laporte — [website](https://davidcharles.co.uk/) |
-| Brasier Freeth | Warehouses — +44 1707 392080 |
-| Vantage Land | Slip End — [website](https://vantageland.co.uk/) |
+### Property Agents
+| Who | For | Contact |
+|-----|-----|---------|
+| David Charles | Laporte | [website](https://davidcharles.co.uk/) |
+| Brasier Freeth | Stevenage | +44 1707 392080 |
+| Vantage Land | Slip End | [website](https://vantageland.co.uk/) |
+
+### Court Suppliers
+| Who | Contact |
+|-----|---------|
+| Portico Sport | [porticosport.com](https://www.porticosport.com/) |
+| Padel Tech | [padeltech.co.uk](https://www.padeltech.co.uk/) |
+
+### Planning & Grants
+| Who | Contact |
+|-----|---------|
+| Luton Planning | [planning portal](https://planning.luton.gov.uk/) / 01582 547089 |
+| Sport England | [movement fund](https://www.sportengland.org/funding-and-campaigns/our-funding/movement-fund) |
+| Qardus (Islamic SME) | [qardus.com](https://www.qardus.com/) |
