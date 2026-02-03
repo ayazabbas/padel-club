@@ -8,6 +8,8 @@
 | Location | Luton, UK |
 | Timeline | Open 2026 |
 
+📊 **[Project Status →](project-status)** — Live milestone tracker
+
 ## 🔴 Priority Actions
 
 1. Contact David Charles — Laporte (size, price, leisure use)
