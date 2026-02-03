@@ -1,0 +1,17 @@
+title: Padel Club
+description: Business Plan & Research
+theme: jekyll-theme-cayman
+markdown: kramdown
+
+# Navigation
+header_pages:
+  - README.md
+  - property-search.md
+  - business-plan.md
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
