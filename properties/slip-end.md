@@ -115,3 +115,6 @@ For outdoor covered courts on greenfield:
   3. Discuss planning pre-application process
 - [ ] Check Central Bedfordshire planning portal for nearby applications
 - [ ] Site visit
+
+📧 **[Use Enquiry Template →](../enquiry-templates#slip-end-vantage-land)**  
+📋 **[Full Task List →](../tasks/property-enquiries)**

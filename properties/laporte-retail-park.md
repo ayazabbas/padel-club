@@ -116,3 +116,6 @@
   3. Would vendor consider leisure/sports use tenant?
   4. Any flexibility to combine compounds?
 - [ ] If viable, discuss planning pre-application with Luton Council
+
+📧 **[Use Enquiry Template →](../enquiry-templates#laporte-retail-park-david-charles)**  
+📋 **[Full Task List →](../tasks/property-enquiries)**
