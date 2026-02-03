@@ -13,18 +13,20 @@ title: Project Status
 
 ## Current Phase: Property Search & Investor Outreach
 
-| Milestone | Status | Target Date |
-|-----------|--------|-------------|
-| Initial research | ✅ Complete | Feb 2026 |
-| Property shortlist | ✅ Complete | Feb 2026 |
-| Financial model | ✅ Complete | Feb 2026 |
-| Investor deck | ✅ Complete | Feb 2026 |
-| Property enquiries | 🟡 In Progress | Feb 2026 |
-| Secure investor(s) | ⏳ Not Started | Q1 2026 |
-| Sign lease | ⏳ Not Started | Q2 2026 |
-| Planning application | ⏳ Not Started | Q2-Q3 2026 |
-| Court installation | ⏳ Not Started | Q3-Q4 2026 |
-| **Grand Opening** | ⏳ Not Started | **Late 2026** |
+| Milestone | Status | Target | Tasks |
+|-----------|--------|--------|-------|
+| Initial research | ✅ Complete | Feb 2026 | — |
+| Property shortlist | ✅ Complete | Feb 2026 | — |
+| Financial model | ✅ Complete | Feb 2026 | — |
+| Investor deck | ✅ Complete | Feb 2026 | — |
+| Property enquiries | 🟡 In Progress | Feb 2026 | [View →](tasks/property-enquiries) |
+| Secure investor(s) | ⏳ Not Started | Q1 2026 | [View →](tasks/secure-investors) |
+| Sign lease | ⏳ Not Started | Q2 2026 | [View →](tasks/sign-lease) |
+| Planning application | ⏳ Not Started | Q2-Q3 2026 | [View →](tasks/planning-application) |
+| Court installation | ⏳ Not Started | Q3-Q4 2026 | [View →](tasks/court-installation) |
+| **Grand Opening** | ⏳ Not Started | **Late 2026** | [View →](tasks/grand-opening) |
+
+📋 **[All Task Lists →](tasks/)** — Detailed to-do lists for each milestone
 
 ---
 
