@@ -33,13 +33,14 @@
 
 - **[💰 Investor Pitch →](investor-pitch)** — Full investment opportunity deck
 - [Financial Model](research/financial-model) — Revenue projections, break-even analysis
+- [Islamic Finance Options](research/islamic-finance) — Halal funding: Qardus, grants, Musharakah
 
 ## Research
 
-- [Financial Model](research/financial-model) — Revenue projections, costs, break-even
+- [Luton Planning Guide](research/luton-planning-guide) — Planning process, Class E, CIL (none in Luton!)
 - [Court Costs](research/court-costs) — £25-35k indoor, £53-75k outdoor
 - [Legal Requirements](research/legal-requirements) — Planning, licenses, insurance
-- [Booking Software](research/booking-software) — Playtomic vs Court22
+- [Booking Software](research/booking-software) — Playtomic vs custom build
 - [Operator Insights](research/operator-insights) — Real experiences from Reddit
 
 ## Key Contacts
