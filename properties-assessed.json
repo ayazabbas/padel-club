@@ -1,0 +1,602 @@
+{
+  "assessed": [
+    {
+      "id": "centric-stevenage",
+      "address": "Centric, Gunnels Wood Road, Stevenage SG1 2AS",
+      "type": "Industrial/Warehouse",
+      "size_sqft_range": "10,009 - 26,306",
+      "ceiling_height": "9m clear internal height",
+      "rent": "Price on application",
+      "source": "Brasier Freeth / Novaloca",
+      "url": "https://brasierfreeth.com/properties/centric-gunnels-wood-road-stevenage/",
+      "notes": "⭐ IDEAL FOR PADEL - 9m ceiling! New development, BREEAM Excellent, EPC A. Walking distance from Stevenage station. Units can be combined. Smallest unit (10,009 sq ft) perfect for 3 courts.",
+      "status": "priority",
+      "suitability": "excellent",
+      "assessedDate": "2026-02-03",
+      "distanceFromLuton": "17 miles"
+    },
+    {
+      "id": "curo-park-st-albans",
+      "address": "Curo Park, Frogmore, St Albans",
+      "type": "Warehouse",
+      "size_sqft": 12818,
+      "ceiling_height": "8m eaves rising to 9.8m at apex",
+      "rent": "Price on application (email: enquiries@whichwarehouse.com)",
+      "source": "WhichWarehouse",
+      "url": "https://www.whichwarehouse.com/warehouse/203687/",
+      "notes": "⭐ IDEAL FOR PADEL - 8m+ ceiling! 38 parking spaces, secure gated estate, large yard. Ground floor warehouse + first floor offices. Near M1 J6, M25 J21a.",
+      "status": "priority",
+      "suitability": "excellent",
+      "assessedDate": "2026-02-03",
+      "distanceFromLuton": "10 miles"
+    },
+    {
+      "id": "trade-city-st-albans",
+      "address": "Trade City, Ashley Road, St Albans AL1 5UG",
+      "type": "Industrial/Warehouse (NEW BUILD)",
+      "size_sqft_range": "4,349 - 6,555",
+      "ceiling_height": "TBC - enquire",
+      "rent": "Price on application",
+      "availability": "May 2026",
+      "source": "Brasier Freeth / Kier",
+      "url": "https://brasierfreeth.com/properties/trade-city-ashley-road-st-albans/",
+      "notes": "⭐ NEW DEVELOPMENT - 10 units, perfect sizing for 2 courts. BREEAM Very Good, EPC A. Solar panels, EV charging. Units can be combined. Affluent St Albans demographic.",
+      "status": "priority",
+      "suitability": "high",
+      "assessedDate": "2026-02-03",
+      "distanceFromLuton": "10 miles"
+    },
+    {
+      "id": "president-way-lu2",
+      "address": "President Way, Luton LU2 9NY",
+      "type": "Warehouse",
+      "size_sqft": 5320,
+      "size_sqm": 494,
+      "ceiling_height": "TBC - enquire",
+      "rent": "Price on application",
+      "source": "OnTheMarket/LoopNet",
+      "url": "https://www.loopnet.co.uk/Listing/37516778/",
+      "notes": "Good size for 2 courts. Near station (0.4mi). Need to enquire on price and ceiling height.",
+      "status": "priority",
+      "suitability": "high",
+      "assessedDate": "2026-02-02"
+    },
+    {
+      "id": "sundon-park-rd-lu3",
+      "address": "Sundon Park Rd, Luton LU3 3BL",
+      "type": "Warehouse",
+      "size_sqft": 14251,
+      "size_sqm": 1324,
+      "ceiling_height": "TBC - enquire",
+      "rent": "Price on application",
+      "source": "OnTheMarket/LoopNet",
+      "url": "https://www.loopnet.co.uk/Listing/38829285/",
+      "notes": "Large - could fit 4 courts. Sundon Park area (Ayaz preferred). Need ceiling height confirmation.",
+      "status": "priority",
+      "suitability": "high",
+      "assessedDate": "2026-02-02"
+    },
+    {
+      "id": "parkbury-st-albans",
+      "address": "Unit 7 Parkbury, Handley Page Way, St Albans",
+      "type": "Warehouse",
+      "size_sqft_range": "45,000 - 77,800 (warehouse element available separately)",
+      "ceiling_height": "10m minimum eaves",
+      "rent": "Price on application",
+      "source": "Brasier Freeth",
+      "url": "https://brasierfreeth.com/properties/unit-7-parkbury-handley-page-way-st-albans-2/",
+      "notes": "⭐ PERFECT CEILING HEIGHT (10m). Too large overall but warehouse can be leased separately. Worth enquiring about subdivided options. Near M1 J6, M25 J21-22.",
+      "status": "enquire",
+      "suitability": "high",
+      "assessedDate": "2026-02-03",
+      "distanceFromLuton": "12 miles"
+    },
+    {
+      "id": "gunnels-wood-park-8102",
+      "address": "Gunnels Wood Park, Stevenage",
+      "type": "Industrial/Distribution",
+      "size_sqft": 8102,
+      "ceiling_height": "TBC - enquire",
+      "rent": "Price on application",
+      "source": "Adroit Real Estate / Novaloca",
+      "url": "https://www.novaloca.com/industrial-unit/to-let/stevenage/gunnels-wood-park/281360",
+      "notes": "Good size for 2-3 courts. Established industrial area. Near A1(M) J7.",
+      "status": "enquire",
+      "suitability": "medium",
+      "assessedDate": "2026-02-03",
+      "distanceFromLuton": "17 miles"
+    },
+    {
+      "id": "11-gunnels-wood-park",
+      "address": "11 Gunnels Wood Park, Gunnels Wood Road, Stevenage",
+      "type": "Warehouse",
+      "size_sqft": 14587,
+      "ceiling_height": "TBC - enquire (portal frame construction)",
+      "rent": "£9.00 per sq ft (£131,283/year)",
+      "source": "Brasier Freeth",
+      "url": "https://brasierfreeth.com/properties/11-gunnels-wood-park-gunnels-wood-road-stevenage/",
+      "notes": "Large enough for 4 courts. Within walking distance of town centre and station. Good rent benchmark.",
+      "status": "enquire",
+      "suitability": "medium",
+      "assessedDate": "2026-02-03",
+      "distanceFromLuton": "17 miles"
+    },
+    {
+      "id": "sovereign-park-hemel",
+      "address": "1 Sovereign Park, Cleveland Way, Hemel Hempstead",
+      "type": "Industrial Unit",
+      "size_sqft": 5774,
+      "ceiling_height": "TBC - enquire",
+      "rent": "For sale and to let",
+      "source": "Brasier Freeth",
+      "url": "https://brasierfreeth.com/properties/1-sovereign-park-cleveland-way-hemel-hempstead/",
+      "notes": "Good size for 2 courts + amenities. Modern business park.",
+      "status": "enquire",
+      "suitability": "medium",
+      "assessedDate": "2026-02-03",
+      "distanceFromLuton": "12 miles"
+    },
+    {
+      "id": "mcdonald-business-park-hemel",
+      "address": "McDonald Business Park (Units 4, 6, 8), McDonald Way, Hemel Hempstead",
+      "type": "Industrial Unit",
+      "size_sqft": "~4,951 each",
+      "ceiling_height": "TBC - enquire",
+      "rent": "Price on application",
+      "source": "Brasier Freeth",
+      "url": "https://brasierfreeth.com/properties/8-mcdonald-business-park-mcdonald-way-hemel-hempstead/",
+      "notes": "Three similar adjacent units available. Could combine for larger space. Modern business park.",
+      "status": "enquire",
+      "suitability": "medium",
+      "assessedDate": "2026-02-03",
+      "distanceFromLuton": "12 miles"
+    },
+    {
+      "id": "maxted-court-hemel",
+      "address": "Unit 2 Maxted Court, Maxted Road, Hemel Hempstead",
+      "type": "Industrial/Warehouse",
+      "size_sqft": 11935,
+      "ceiling_height": "5.7m eaves",
+      "rent": "£215,000/year (Under Offer)",
+      "source": "Brasier Freeth / Indurent",
+      "url": "https://www.indurent.com/industrial-estates/maxted-court/",
+      "notes": "CEILING TOO LOW (5.7m, need 7m min). Under offer anyway. For reference only.",
+      "status": "rejected",
+      "suitability": "low",
+      "assessedDate": "2026-02-03",
+      "distanceFromLuton": "12 miles"
+    },
+    {
+      "id": "ridge-hill-shenley",
+      "address": "Ridge Hill Stables Yard, Shenley, Hertfordshire",
+      "type": "Yard/Storage",
+      "size_sqft": 5000,
+      "ceiling_height": "N/A - may be outdoor yard",
+      "rent": "£30,000/year (£6/sq ft)",
+      "source": "Brasier Freeth",
+      "url": "https://brasierfreeth.com/properties/ridge-hill-stables-yard-shenley/",
+      "notes": "EXCELLENT PRICE but may be outdoor/unsuitable. Worth enquiring to clarify if indoor conversion possible.",
+      "status": "enquire",
+      "suitability": "unknown",
+      "assessedDate": "2026-02-03",
+      "distanceFromLuton": "17 miles"
+    }
+  ],
+  "landOpenSites": {
+    "description": "Land and open sites suitable for outdoor covered padel courts with small reception building. Alternative to warehouse conversion.",
+    "sizeRequirements": {
+      "minimum_sqm": 2500,
+      "ideal_sqm": 5000,
+      "minimum_acres": 0.6,
+      "ideal_acres": 1.2,
+      "note": "500 sq m per court including run-off. 2-4 courts + parking + reception."
+    },
+    "costEstimates": {
+      "court_with_canopy": "~£55,000 per court",
+      "reception_building": "£20,000-40,000 for small structure",
+      "total_2_courts": "~£150,000-200,000 build cost",
+      "total_4_courts": "~£280,000-350,000 build cost"
+    },
+    "planningNotes": {
+      "use_class": "Class E (commercial) or F2 (leisure) - outdoor sports facilities",
+      "considerations": [
+        "Change of use from agricultural/storage may be required",
+        "Green Belt restrictions apply to most rural sites",
+        "AONB (Area of Outstanding Natural Beauty) limits some development",
+        "D2/leisure use generally supported in local plans",
+        "Lighting for evening play may need separate consent"
+      ]
+    },
+    "sites": [
+      {
+        "id": "laporte-dallow-road",
+        "address": "Dallow Road, Laporte Retail Park, Luton LU1 1HL",
+        "type": "Open Storage (B8) Compound",
+        "size_acres": 2.52,
+        "size_available": "Compound 3 only (1 & 2 under offer) - size TBC",
+        "price": "POA",
+        "priceType": "Lease",
+        "source": "David Charles Property Consultants",
+        "url": "https://davidcharles.co.uk/property/199034-dallow-road-laporte-retail-park-luton-lu1-1hl/",
+        "distanceFromLuton": "0 miles (IN Luton)",
+        "planningStatus": "B8 open storage (granted Nov 2023) - would need Class E(d) for padel",
+        "greenBelt": false,
+        "utilities": "Electric & water being connected, tarmacked",
+        "access": "Three entrances via private service road off Dallow Road",
+        "parking": "Within retail park area",
+        "notes": "⭐ BEST LOCATION FOUND - Prime retail park in Luton. Near Aldi, B&Q, Lidl, DFS. 1.2mi from M1 J11. High visibility/footfall. BUT: Only Compound 3 available (unknown size), B8→Class E change of use needed, must build courts from scratch.",
+        "pros": [
+          "Prime Luton location - best found",
+          "1.2 miles from M1 J11",
+          "High visibility retail park",
+          "Already commercial (easier planning than greenfield)",
+          "Tarmacked, secure, utilities connected",
+          "Major retailers nearby = footfall"
+        ],
+        "cons": [
+          "Open storage - must build courts from scratch",
+          "Only Compound 3 available - unknown size",
+          "B8 to Class E(d) change of use needed",
+          "Price unknown (POA)",
+          "Would need canopy/cover built"
+        ],
+        "suitability": "excellent",
+        "status": "priority",
+        "assessedDate": "2026-02-03",
+        "agentContact": "David Charles Property Consultants"
+      },
+      {
+        "id": "slip-end-mancroft-road",
+        "address": "Mancroft Road, Slip End, Bedfordshire/Hertfordshire Border LU1",
+        "type": "Development Land",
+        "size_acres": 2.17,
+        "size_sqm": 8782,
+        "price": "£145,000",
+        "priceType": "Freehold",
+        "source": "OnTheMarket / Vantage Land",
+        "url": "https://www.onthemarket.com/details/17544097/",
+        "distanceFromLuton": "2.4 miles",
+        "planningStatus": "INSET from Green Belt - normal planning policy applies",
+        "greenBelt": false,
+        "utilities": "Likely available - residential road",
+        "access": "Gated entrance, extensive road frontage",
+        "parking": "Space to create parking",
+        "notes": "⭐ EXCELLENT OPTION - 2.17 acres for £145k is great value! 'Inset' Green Belt means normal planning applies. Next to residential retirement village development (158 homes). Perfect size for 4 courts + parking + reception. NO OVERAGE. Very close to Luton. Near M1 J10.",
+        "pros": [
+          "Great price (£145k for 2.17 acres)",
+          "Close to Luton (2.4 miles)",
+          "Inset from Green Belt = easier planning",
+          "No overage clause",
+          "Adjacent residential development precedent",
+          "Good road access",
+          "Near M1 J10"
+        ],
+        "cons": [
+          "Currently pasture land - needs development",
+          "Would need planning for leisure use",
+          "Utilities need confirmation"
+        ],
+        "suitability": "excellent",
+        "status": "priority",
+        "assessedDate": "2026-02-03"
+      },
+      {
+        "id": "ponsbourne-park-hertford",
+        "address": "Former Tennis Club, Ponsbourne Park, The Drive, New Gate Street Village, Hertford SG13",
+        "type": "Former Tennis Club / Storage Yard",
+        "size_acres": 1.66,
+        "size_sqft": "19,331-71,164",
+        "price": "POA (Lease)",
+        "priceType": "Lease (5 years, landlord break option)",
+        "source": "Rightmove / Chamberlain Commercial",
+        "url": "https://www.rightmove.co.uk/properties/145361318",
+        "distanceFromLuton": "~20 miles",
+        "planningStatus": "Former sports use - D2 precedent likely",
+        "utilities": "Yes - has clubhouse with WC, showers, kitchen",
+        "access": "Via Newgate Street Village, within Ponsbourne Park Hotel grounds",
+        "parking": "Hardstanding yard spaces",
+        "notes": "⭐ IDEAL EXISTING TENNIS SITE - 5 former tennis courts! Has brick clubhouse with facilities. 1.66 acres. Currently marketed for storage but 'all uses considered'. LISTING REMOVED but was available - worth contacting agent to check status. Perfect for padel conversion.",
+        "pros": [
+          "Already has 5 tennis courts - easy padel conversion",
+          "Existing clubhouse with WC/showers/kitchen",
+          "D2 leisure use precedent",
+          "Hardstanding in place",
+          "Near M25/A10/A1"
+        ],
+        "cons": [
+          "Listing appears removed - may be let",
+          "20 miles from Luton",
+          "5-year lease with landlord break - uncertain tenure",
+          "Within hotel grounds - may have restrictions"
+        ],
+        "suitability": "excellent",
+        "status": "investigate",
+        "assessedDate": "2026-02-03",
+        "agentContact": "Chamberlain Commercial (UK) Ltd, Middlesex"
+      },
+      {
+        "id": "sewell-dunstable-5-5-acres",
+        "address": "Sewell Road, Dunstable, Bedfordshire LU6 1RP",
+        "type": "Agricultural/Amenity Land",
+        "size_acres": 5.5,
+        "price": "TBC",
+        "priceType": "Freehold",
+        "source": "Rightmove",
+        "url": "https://www.rightmove.co.uk/commercial-property-for-sale/Dunstable/land.html",
+        "distanceFromLuton": "5 miles",
+        "planningStatus": "Multiple use potential - woodland carbon code registration possible",
+        "greenBelt": "Likely",
+        "notes": "Larger site in Sewell/Dunstable area. 5.5 acres - larger than needed but could subdivide or use portion. Would need change of use for leisure.",
+        "suitability": "medium",
+        "status": "enquire",
+        "assessedDate": "2026-02-03"
+      },
+      {
+        "id": "sewell-dunstable-manor-farm",
+        "address": "Manor Farm, Sewell, Dunstable LU6",
+        "type": "Development Land with Buildings",
+        "size_acres": 5,
+        "price": "POA",
+        "priceType": "Freehold",
+        "source": "Savills Harpenden / Rightmove",
+        "url": "https://www.rightmove.co.uk/property-for-sale/Dunstable/land.html",
+        "distanceFromLuton": "5 miles",
+        "planningStatus": "Has planning for stable conversion to residence",
+        "greenBelt": "Likely",
+        "notes": "Development opportunity with existing buildings. Planning for residential conversion already granted. Could potentially seek leisure use instead.",
+        "suitability": "medium",
+        "status": "enquire",
+        "assessedDate": "2026-02-03"
+      },
+      {
+        "id": "clements-end-road-gaddesden",
+        "address": "Clements End Road, Between Gaddesden Row & Studham HP2",
+        "type": "Agricultural Buildings & Land",
+        "size_acres": 6.56,
+        "size_sqm_buildings": 5815,
+        "price": "£2,500,000",
+        "priceType": "Freehold with Overage",
+        "source": "OnTheMarket / Vantage Land",
+        "url": "https://www.onthemarket.com/details/12326415/",
+        "distanceFromLuton": "6.7 miles to airport",
+        "planningStatus": "Agricultural - in Chiltern Hills AONB. Local barn conversion precedents.",
+        "aonb": true,
+        "utilities": "3-phase electricity, metered mains water",
+        "access": "Two gated entrances, newly installed track",
+        "notes": "Large site with 9 agricultural buildings (62,588 sq ft total). Could potentially convert barns to indoor courts. BUT: £2.5m price tag is very high, 25% overage clause for 33 years, and in AONB (stricter planning). Better suited to residential development given price.",
+        "pros": [
+          "Existing large buildings",
+          "Utilities in place",
+          "Good access",
+          "Affluent area"
+        ],
+        "cons": [
+          "Very expensive (£2.5m)",
+          "25% overage for 33 years",
+          "AONB - stricter planning",
+          "Price reflects residential development potential, not leisure"
+        ],
+        "suitability": "low",
+        "status": "rejected",
+        "assessedDate": "2026-02-03"
+      },
+      {
+        "id": "ashcroft-road-stopsley",
+        "address": "118-122 Ashcroft Road, Luton LU2 9AX (Stopsley)",
+        "type": "Development Land",
+        "size_acres": 0.8,
+        "size_sqm": 3237,
+        "price": "£2,500,000 (Guide)",
+        "priceType": "Freehold",
+        "source": "Venture Residential / Savills Auctions",
+        "url": "https://www.venture-residential.co.uk/property-for-sale-ashcroft-road-luton-pi-venr6899.htm",
+        "distanceFromLuton": "0 miles (in Luton)",
+        "planningStatus": "Residential development area",
+        "utilities": "Yes",
+        "parking": "Space available",
+        "notes": "REJECTED - Price is far too high (£2.5m for 0.8 acres reflects residential development value). Near Inspire Luton Sports Village. Could be competition if they add padel.",
+        "suitability": "low",
+        "status": "rejected",
+        "reason": "Price reflects residential development potential (£2.5m for 0.8 acres is £3.1m/acre). Not viable for padel investment.",
+        "assessedDate": "2026-02-03"
+      },
+      {
+        "id": "hitchin-road-arlesey",
+        "address": "Land on West Side of Hitchin Road, Arlesey, Bedfordshire SG15 6XZ",
+        "type": "Development Land",
+        "price": "POA",
+        "source": "OnTheMarket / Auction House London",
+        "url": "https://www.onthemarket.com/details/18264420/",
+        "distanceFromLuton": "12 miles",
+        "notes": "Land parcel in Arlesey - needs further investigation on size and price.",
+        "suitability": "unknown",
+        "status": "enquire",
+        "assessedDate": "2026-02-03"
+      }
+    ],
+    "partnershipOpportunities": {
+      "description": "Potential partnerships with existing sports/leisure facilities",
+      "tennisClubs": [
+        {
+          "name": "Letchworth Sports and Tennis Club",
+          "location": "Letchworth Garden City",
+          "url": "https://www.lstc.org.uk/",
+          "facilities": "3 indoor + 8 outdoor tennis courts, 2 squash courts, gym, restaurant bar",
+          "notes": "Large established club with spare capacity. Could partner to add padel courts. Already hosts badminton, table tennis, pickleball. Distance: 15 miles from Luton.",
+          "approach": "Contact about padel partnership or court conversion"
+        },
+        {
+          "name": "Townsend Lawn Tennis Club",
+          "location": "St Albans",
+          "notes": "Affiliated with Townsend Bowling and Sports Club. Could have spare land.",
+          "approach": "Enquire about adding padel courts"
+        }
+      ],
+      "gardenCentres": {
+        "note": "Garden centres often have excess parking/land. Could partner to add padel as 'destination' feature.",
+        "approach": "Contact large garden centres within 30 miles of Luton about partnership"
+      },
+      "schools": {
+        "note": "Some schools/colleges have unused sports land. Could lease or partner.",
+        "approach": "Contact local schools with large grounds"
+      }
+    },
+    "councilBrownfieldRegisters": {
+      "centralBedfordshire": {
+        "url": "https://www.centralbedfordshire.gov.uk/info/45/planning_policy/472/monitoring/5",
+        "notes": "Maintains brownfield land register. Could find sites with development permission. Updated annually."
+      },
+      "northHerts": {
+        "url": "https://www.north-herts.gov.uk/brownfield-land-register",
+        "notes": "Brownfield register for North Herts area"
+      },
+      "eastHerts": {
+        "url": "https://www.eastherts.gov.uk/planning-and-building/planning-policy/brownfield-land-register",
+        "notes": "East Herts brownfield register"
+      }
+    },
+    "prioritySites": [
+      "laporte-dallow-road",
+      "slip-end-mancroft-road",
+      "ponsbourne-park-hertford"
+    ],
+    "nextSteps": [
+      "🔴 PRIORITY: Contact David Charles about Laporte Retail Park - ask Compound 3 size, price, leisure use feasibility",
+      "🔴 PRIORITY: Contact Vantage Land about Slip End site (2.17 acres, £145k) - enquire on planning pre-app",
+      "🔴 PRIORITY: Contact Chamberlain Commercial about Ponsbourne Park former tennis club status",
+      "🟠 Register with Vantage Land for land alerts in Beds/Herts",
+      "🟠 Contact Letchworth Sports & Tennis Club about padel partnership",
+      "🟡 Review Central Bedfordshire brownfield register for suitable sites",
+      "🟡 Search for garden centres with excess land in area"
+    ],
+    "searchDate": "2026-02-03",
+    "searchSources": [
+      "Rightmove Land",
+      "OnTheMarket Land",
+      "Plotfinder.net",
+      "Vantage Land",
+      "Council brownfield registers",
+      "RightBiz (sports facilities)"
+    ]
+  },
+  "rejected": [
+    {
+      "id": "thornhill-rd-lu4",
+      "address": "Thornhill Rd, Luton LU4 8EY",
+      "reason": "Rejected per Ayaz brief",
+      "assessedDate": "2026-02-02"
+    },
+    {
+      "id": "leagrave-rd-lu3",
+      "address": "Leagrave Rd, Luton LU3 1RJ",
+      "reason": "Too small (935 sq ft)",
+      "assessedDate": "2026-02-02"
+    },
+    {
+      "id": "maxted-court-hemel",
+      "address": "Unit 2 Maxted Court, Hemel Hempstead",
+      "reason": "Ceiling too low (5.7m, need 7m min for padel) and under offer",
+      "assessedDate": "2026-02-03"
+    }
+  ],
+  "priority": [
+    "centric-stevenage",
+    "curo-park-st-albans",
+    "trade-city-st-albans",
+    "president-way-lu2",
+    "sundon-park-rd-lu3"
+  ],
+  "topPicks": {
+    "bestCeilingHeight": "centric-stevenage (9m), curo-park-st-albans (8-9.8m), parkbury-st-albans (10m)",
+    "bestValue": "ridge-hill-shenley (£6/sq ft) - if suitable",
+    "bestLocation": "president-way-lu2, sundon-park-rd-lu3 (in Luton)",
+    "bestNewBuild": "trade-city-st-albans (May 2026)",
+    "bestLandOption": "slip-end-mancroft-road (2.17 acres, £145k, inset from Green Belt)"
+  },
+  "ceilingHeightRequirements": {
+    "minimum": "7m (for recreational padel)",
+    "ideal": "10m (for professional/tournament standard)",
+    "note": "Most industrial units are 5-7m. Properties with 8m+ are rare and highly desirable for padel."
+  },
+  "lastSearchDate": "2026-02-03",
+  "searchSources": [
+    "OnTheMarket",
+    "LoopNet",
+    "Rightmove",
+    "Novaloca",
+    "Brasier Freeth",
+    "Indurent",
+    "WhichWarehouse",
+    "Adroit Real Estate",
+    "Kirkby Diamond",
+    "Vantage Land",
+    "Plotfinder.net",
+    "RightBiz"
+  ],
+  "searchRadius": "30 miles from Luton",
+  "areasSearched": [
+    "Luton",
+    "Dunstable",
+    "St Albans",
+    "Hemel Hempstead",
+    "Stevenage",
+    "Welwyn Garden City",
+    "Hertford",
+    "Bedford",
+    "Milton Keynes",
+    "Slip End",
+    "Arlesey",
+    "Letchworth"
+  ],
+  "sizeRequirements": {
+    "2_courts_min_sqft": 5000,
+    "2_courts_ideal_sqft": 6500,
+    "4_courts_min_sqft": 12000,
+    "4_courts_ideal_sqft": 20000,
+    "note": "Includes circulation, changing rooms, small reception/café area"
+  },
+  "rentBenchmark": {
+    "luton_industrial_per_sqft_year": "£10-15",
+    "hemel_hempstead_per_sqft_year": "£15-20",
+    "st_albans_per_sqft_year": "£12-18",
+    "stevenage_per_sqft_year": "£9-15",
+    "estimated_annual_rent_5000sqft": "£50,000-£100,000"
+  },
+  "keyAgents": [
+    {
+      "name": "Brasier Freeth",
+      "coverage": "Herts, Beds, Bucks - RECOMMENDED",
+      "tel": "+44 (0) 1707 392080 (Welwyn Garden City)",
+      "url": "https://brasierfreeth.com/properties/"
+    },
+    {
+      "name": "Kirkby Diamond",
+      "coverage": "Beds, Herts, Bucks",
+      "url": "https://www.kirkbydiamond.co.uk/property-search/"
+    },
+    {
+      "name": "Adroit Real Estate",
+      "coverage": "Luton, Stevenage, wider region",
+      "url": "https://www.adroitrealestate.co.uk/"
+    },
+    {
+      "name": "Vantage Land",
+      "coverage": "Land sales across South East",
+      "url": "https://vantageland.co.uk/",
+      "notes": "Good for development land - have Slip End site"
+    }
+  ],
+  "nextSteps": [
+    "🔴 PRIORITY: Enquire on Centric Stevenage - 9m ceiling, perfect for padel",
+    "🔴 PRIORITY: Enquire on Curo Park St Albans - 8m+ ceiling, 12,818 sq ft",
+    "🔴 PRIORITY (LAND): Contact Vantage Land about Slip End site (2.17 acres, £145k)",
+    "🔴 PRIORITY (LAND): Check Ponsbourne Park former tennis club availability",
+    "🟠 Register interest for Trade City St Albans (available May 2026)",
+    "🟠 Contact Letchworth Sports & Tennis Club about padel partnership",
+    "🟡 Enquire on President Way & Sundon Park Rd ceiling heights",
+    "🟡 Ask Brasier Freeth about Parkbury warehouse subdivision options",
+    "Set up property alerts with Brasier Freeth, Adroit, and Vantage Land",
+    "Schedule viewing trip for top 3 properties once ceiling heights confirmed"
+  ],
+  "notes": "Expanded search 30-mile radius on 2026-02-03. KEY FINDING: Most industrial units have 5-7m ceilings which is borderline/too low for padel. Found 3 properties with 8m+ ceilings: Centric Stevenage (9m), Curo Park St Albans (8-9.8m), and Parkbury St Albans (10m). NEW: Added land/open sites search for outdoor covered courts option. Top land find: Slip End (2.17 acres, £145k, inset from Green Belt)."
+}
