@@ -8,7 +8,8 @@ All research and findings for the padel club project.
 
 | Topic | Description |
 |-------|-------------|
-| [Luton Planning Guide](luton-planning-guide) | **NEW** — Complete planning process for Luton Borough |
+| [Islamic Finance](islamic-finance) | **NEW** — Halal funding options: Qardus, grants, Musharakah |
+| [Luton Planning Guide](luton-planning-guide) | Complete planning process for Luton Borough |
 | [Financial Model](financial-model) | Revenue projections, costs, break-even scenarios |
 | [Court Costs](court-costs) | Build costs: indoor, outdoor, tarmac, greenfield |
 | [Legal Requirements](legal-requirements) | Planning, Class E, licenses, insurance |
