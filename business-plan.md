@@ -40,9 +40,12 @@
 ## Funding Gap
 
 £80k is likely **not sufficient** for full build. Options:
-- Bank loans
-- Sport England grants
-- Investor partnerships
+- **External investors** (equity partnership)
+- **Islamic finance** (profit-sharing, no interest)
+- **Sport England grants** (no repayment)
+- **Additional partner contributions**
+
+*Note: Interest-based loans not an option*
 
 ## Timeline
 
