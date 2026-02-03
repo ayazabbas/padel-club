@@ -184,7 +184,7 @@ Based on operator insights (rent should be 1/7 to 1/8 of revenue):
 3. **Sport England grant** — Up to £50k for community facilities
 4. **Phased build** — Start with 2 courts, reinvest profits to expand
 
-See [Funding Options](funding-options) for detailed research.
+See [Islamic Finance & Funding Options](islamic-finance) for detailed research.
 
 ---
 

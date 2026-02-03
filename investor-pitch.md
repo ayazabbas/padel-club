@@ -200,6 +200,8 @@ For £100,000 investment at 25% equity:
 | Board Seat | Optional for investors >20% |
 | Exit | Buyback option at Year 3, 5, or sale |
 
+> 🕌 **Sharia-Compliant Structure:** This investment is structured as equity (Musharakah) — profit-and-loss sharing with no interest. See our [detailed Islamic finance research →](research/islamic-finance)
+
 ---
 
 ## Use of Funds
