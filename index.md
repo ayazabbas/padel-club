@@ -15,6 +15,8 @@
 3. Contact Brasier Freeth — Centric Stevenage pricing
 4. Get court quotes — Portico Sport, Padel Tech
 
+📧 **[Enquiry Templates →](enquiry-templates)** — Ready-to-send emails for each property
+
 ## Property Analyses
 
 | Property | Verdict | Link |

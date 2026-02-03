@@ -1,3 +1,8 @@
+---
+layout: default
+title: Enquiry Templates
+---
+
 # Enquiry Email Templates
 
 Ready-to-send emails for priority properties.
