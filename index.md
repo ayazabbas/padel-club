@@ -29,11 +29,18 @@
 | President Way Luton | 🟡 Ceiling TBC | [Analysis →](properties/president-way-luton) |
 | Sundon Park Luton | 🟡 Ceiling TBC | [Analysis →](properties/sundon-park-luton) |
 
+## Investor Materials
+
+- **[💰 Investor Pitch →](investor-pitch)** — Full investment opportunity deck
+- [Financial Model](research/financial-model) — Revenue projections, break-even analysis
+
 ## Research
 
+- [Financial Model](research/financial-model) — Revenue projections, costs, break-even
 - [Court Costs](research/court-costs) — £25-35k indoor, £53-75k outdoor
 - [Legal Requirements](research/legal-requirements) — Planning, licenses, insurance
 - [Booking Software](research/booking-software) — Playtomic vs Court22
+- [Operator Insights](research/operator-insights) — Real experiences from Reddit
 
 ## Key Contacts
 

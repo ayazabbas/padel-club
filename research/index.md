@@ -8,6 +8,7 @@ All research and findings for the padel club project.
 
 | Topic | Description |
 |-------|-------------|
+| [Financial Model](financial-model) | Revenue projections, costs, break-even scenarios |
 | [Court Costs](court-costs) | Build costs: indoor, outdoor, tarmac, greenfield |
 | [Legal Requirements](legal-requirements) | Planning, Class E, licenses, insurance |
 | [Booking Software](booking-software) | Custom build vs Playtomic vs Court22 |
