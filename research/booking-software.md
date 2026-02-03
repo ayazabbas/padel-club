@@ -6,21 +6,22 @@
 
 | Option | Cost | Pros | Cons |
 |--------|------|------|------|
-| **Build custom** | £5-15k upfront | No fees, full control, differentiator | Dev time, maintenance |
-| **Playtomic** | ~£5k/year | Largest community, marketing | Ongoing fees, no control |
+| **Custom build** ✅ | ~£200/year | Zero fees, full control | Dev time (free for us) |
+| **Playtomic** | ~£5k/year | Largest community | Ongoing fees, no control |
 | **Court22** | ~£1-2k/year | Low fees | Smaller community |
+
+**Recommendation:** Build custom — founders are developers, saves ~£24k over 5 years.
 
 ---
 
-## Option 1: Build Custom Web App
+## Option 1: Build Custom Web App ✅ RECOMMENDED
 
-| Item | Estimate |
-|------|----------|
-| Initial development | £5,000-15,000 |
+| Item | Cost |
+|------|------|
+| Development | **£0** (founders are developers) |
 | Hosting | £50-200/year |
-| Maintenance | £500-2,000/year |
-| **Year 1 total** | **£6,000-17,000** |
-| **Year 2+ total** | **£500-2,000/year** |
+| Stripe fees | ~1.4% + 20p per transaction |
+| **Total** | **~£100-200/year + Stripe fees** |
 
 **Features to build:**
 - Court booking calendar
@@ -29,20 +30,21 @@
 - Membership management
 - Booking notifications (email/SMS)
 - Admin dashboard
+- Gym/co-working booking (future)
 
 **Pros:**
-- No ongoing platform fees
+- **Zero platform fees** — massive savings vs Playtomic
 - Full control over features and branding
 - Customer data ownership
-- Can add custom features (co-working booking, gym access, etc.)
-- Potential differentiator vs competitors
+- Can add custom features (co-working, gym, café loyalty, etc.)
+- Differentiator vs competitors
+- Founders have dev skills — no outsourcing needed
 
 **Cons:**
-- Upfront development cost
-- Ongoing maintenance required
-- No built-in player community/marketing
+- Dev time investment (but founders enjoy building)
+- No built-in player community/marketing (use Playtomic listing as supplement)
 
-**Tech stack suggestion:** Next.js + Supabase + Stripe (or similar)
+**Tech stack suggestion:** Next.js + Supabase + Stripe
 
 ---
 
@@ -79,13 +81,13 @@
 
 ## Recommendation
 
-**For a new club with development capability:**
-1. **Build custom** — lower long-term cost, full control, supports mixed-use (padel + gym + co-working)
-2. **List on Playtomic** as additional channel for visibility (can do both)
+**Build custom + list on Playtomic for visibility:**
 
-**For quick launch without dev resources:**
-1. Start with **Court22** (lower fees) or **Playtomic** (more reach)
-2. Consider custom build later when profitable
+1. **Build our own booking system** — founders are developers, essentially free
+2. **Also list on Playtomic** — for player discovery and community (can link to our booking)
+3. **Expand system later** — add gym booking, co-working, café loyalty, membership tiers
+
+This gives us full control, zero ongoing fees, and still benefits from Playtomic's marketing reach.
 
 ---
 
@@ -93,11 +95,13 @@
 
 | Option | Year 1 | Years 2-5 | **5-Year Total** |
 |--------|--------|-----------|------------------|
-| Custom build | £10k | £4k | **£14k** |
-| Playtomic | £5k | £20k | **£25k** |
-| Court22 | £2k | £6k | **£8k** |
+| **Custom build** | £200 | £800 | **£1,000** ✅ |
+| Court22 | £2k | £6k | £8k |
+| Playtomic | £5k | £20k | £25k |
 
-*Estimates based on medium-sized club*
+*Custom build assumes founders develop it (£0 dev cost), only hosting + Stripe fees.*
+
+**5-year savings vs Playtomic: ~£24,000**
 
 ---
 
@@ -112,6 +116,7 @@
 
 ## Next Steps
 
-- [ ] Decide: Build custom vs third-party
-- [ ] If custom: Scope features, get dev quotes
-- [ ] If third-party: Contact Playtomic + Court22 for pricing
+- [ ] Scope MVP features for custom booking system
+- [ ] Choose tech stack (Next.js + Supabase + Stripe recommended)
+- [ ] Build MVP before launch
+- [ ] Register on Playtomic as additional discovery channel
