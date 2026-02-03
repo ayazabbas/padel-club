@@ -8,6 +8,7 @@ All research and findings for the padel club project.
 
 | Topic | Description |
 |-------|-------------|
+| [Luton Planning Guide](luton-planning-guide) | **NEW** — Complete planning process for Luton Borough |
 | [Financial Model](financial-model) | Revenue projections, costs, break-even scenarios |
 | [Court Costs](court-costs) | Build costs: indoor, outdoor, tarmac, greenfield |
 | [Legal Requirements](legal-requirements) | Planning, Class E, licenses, insurance |
@@ -38,6 +39,8 @@ All research and findings for the padel club project.
 **Planning:**
 - Class E covers: padel, gym, café, co-working — can switch freely
 - Open land requires full planning application
+- ⭐ **Luton has NO CIL** — significant cost advantage vs neighbouring areas
+- Padel Pass (2 courts) approved at Venue 360 in 2025 — local precedent exists
 
 **Booking:**
 - Custom build recommended (founders are devs)
