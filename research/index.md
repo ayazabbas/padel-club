@@ -6,11 +6,13 @@
 |-------|---------|
 | [Court Costs](court-costs) | Indoor £25-35k, outdoor on tarmac £35-50k, greenfield £53-75k |
 | [Legal Requirements](legal-requirements) | Class E covers padel + gym + café + co-working |
-| [Booking Software](booking-software) | Playtomic (reach) vs Court22 (cheaper) |
+| [Booking Software](booking-software) | Custom build vs Playtomic vs Court22 |
+| [Operator Insights](operator-insights) | Real experiences from club owners (Reddit) |
 
 ## Key Findings
 
-- **Cheapest route:** Indoor warehouse or outdoor on existing tarmac
-- **Class E advantage:** Gym, café, co-working, sports can switch freely within Class E
-- **Open land:** Full planning required for new buildings
-- **Insurance:** £1.5-8k/year depending on size and facilities
+- **Revenue:** UK courts generating £100-150k/year per court
+- **Occupancy:** Indoor ~71%, outdoor ~45%
+- **Break-even:** 18-24 months typical
+- **Rent rule:** Should be <15% of revenue
+- **Warning:** Hands-off approach = administration risk
