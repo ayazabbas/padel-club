@@ -244,6 +244,18 @@ For £100,000 investment at 25% equity:
 
 ---
 
+## Sources & Further Reading
+
+- [LTA Padel Facility Guidance](https://www.lta.org.uk/about-us/tennis-padel-britain/padel/) — Official court costs and standards
+- [Playtomic UK Market Data](https://www.playtomic.io/) — Occupancy statistics
+- [Reddit r/padel AMAs](https://www.reddit.com/r/padel/) — Operator revenue insights
+- [Portico Sport](https://www.porticosport.com/) — Court supplier (4000+ courts)
+- [Sport England](https://www.sportengland.org/) — Grant funding
+- [Full Financial Model →](research/financial-model) — Detailed projections
+- [Full Research Library →](research/) — All supporting research
+
+---
+
 *This document is for discussion purposes only and does not constitute a formal offer. All projections are estimates based on market research and operator data. Past performance of other facilities does not guarantee future results.*
 
 ---
