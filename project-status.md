@@ -7,7 +7,7 @@ title: Project Status
 
 *Live tracker for Luton Padel Club development*
 
-**Last Updated:** 3 February 2026
+**Last Updated:** 3 February 2026 (17:30)
 
 ---
 
@@ -60,26 +60,34 @@ title: Project Status
 
 ## Immediate Actions
 
-### This Week
+### This Week (3-9 Feb 2026)
 
 - [ ] Contact David Charles — Laporte (size, price, leisure use)
 - [ ] Confirm ceiling heights — President Way & Sundon Park  
 - [ ] Contact Brasier Freeth — Centric Stevenage pricing
+- [ ] Contact Vantage Land — Slip End (availability, utilities)
 
-### This Month
+📋 **[Detailed task list →](tasks/property-enquiries)**
 
-- [ ] Get court quotes — Portico Sport, Padel Tech
-- [ ] Start investor conversations
-- [ ] Visit top 2-3 properties
+### This Month (February 2026)
+
+- [ ] Get court quotes — Portico Sport, Padel Tech, Red Raven
+- [ ] View top 2-3 properties
+- [ ] Research solicitors (commercial property + company formation)
+- [ ] Prepare for investor conversations
+
+📋 **[Investor preparation tasks →](tasks/secure-investors)**
 
 ### Pre-Launch Checklist
 
+See **[Legal Checklist →](tasks/legal-checklist)** for solicitor tasks
+
+- [ ] Form company (Ltd)
 - [ ] Finalize property
 - [ ] Secure funding (£95-120k additional)
 - [ ] Submit planning pre-application
 - [ ] Get 3+ court quotes
 - [ ] Appoint solicitor
-- [ ] Register company
 - [ ] Open business account
 - [ ] Insurance quotes
 
