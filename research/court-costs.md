@@ -1,42 +1,68 @@
-# Court Costs — Research
+# Court Costs
 
 *Last Updated: 3 February 2026*
 
 ## Summary
 
-- **Indoor warehouse court:** £25-35k per court (no groundworks)
-- **Outdoor with groundworks:** £53-75k per court
-- **Budget option (China):** £10-20k delivered (quality concerns)
-- **Key insight:** Groundworks are 50% of outdoor costs — warehouse conversion is cheapest
+| Option | Cost per Court | Best For |
+|--------|----------------|----------|
+| Indoor (warehouse) | £25-35k | Cheapest — no groundworks |
+| Outdoor on tarmac + canopy | £35-50k | Existing hard surface (e.g. Laporte) |
+| Outdoor + groundworks | £53-75k | Greenfield sites |
+| Budget (China) | £10-20k | Lower quality, small clubs |
+
+**Key insight:** Groundworks are 50% of outdoor costs — avoid if possible.
 
 ---
 
-## Cost Breakdown
+## Option 1: Indoor Warehouse Conversion (Recommended)
 
-### Indoor Warehouse Conversion (Recommended)
+| Item | Cost |
+|------|------|
+| Court structure (EU) | £25-40k |
+| Groundworks | £0 |
+| **Total per court** | **£25-35k** |
 
-| Item | Cost per Court |
-|------|----------------|
-| Court structure (EU manufactured) | £25-40k |
-| Groundworks | £0 (floor already flat) |
-| **Total** | **£25-35k** |
+Best value — floor already flat, no groundworks needed.
 
-*Best value route — skip expensive groundworks*
+---
 
-### Outdoor with Groundworks
+## Option 2: Outdoor on Existing Tarmac + Canopy
 
-| Item | Cost per Court |
-|------|----------------|
+For sites like Laporte Retail Park with existing hard surface:
+
+| Item | Cost |
+|------|------|
+| Court structure | £25-35k |
+| Canopy/cover | £10-15k |
+| Minor surface prep | £0-5k |
+| **Total per court** | **£35-50k** |
+
+Skips expensive groundworks. Surface must be level and well-drained.
+
+---
+
+## Option 3: Outdoor + Groundworks (Greenfield)
+
+| Item | Cost |
+|------|------|
 | Groundworks (ringbeam) | £28-35k |
 | Court structure | £25-40k |
-| **Total** | **£53-75k** |
+| **Total per court** | **£53-75k** |
 
-### Budget Options
+Required for undeveloped land (e.g. Slip End).
 
-| Source | Cost | Notes |
-|--------|------|-------|
-| China/Alibaba | £10-20k delivered | Quality concerns, fine for small club |
-| Used courts (Sweden) | <€20k | Limited availability |
+---
+
+## Option 4: Budget (China/Alibaba)
+
+| Item | Cost |
+|------|------|
+| Court delivered to UK | £10-20k |
+| Installation | £5-10k |
+| **Total per court** | **£15-30k** |
+
+Quality concerns but viable for small clubs starting out.
 
 ---
 
@@ -44,39 +70,38 @@
 
 | Source | 1 Court | 2 Courts | 4 Courts |
 |--------|---------|----------|----------|
-| LTA indicative | £62k | £118k | £200k |
+| [LTA](https://www.lta.org.uk/) | £62k | £118k | £200k |
 | General UK range | £45-80k | — | — |
 
 ---
 
-## UK Suppliers (Contact for Quotes)
+## UK Suppliers
 
 | Supplier | Notes | Website |
 |----------|-------|---------|
-| Padel Tech | UK distributor for AFP/adidas, 5+ year warranty | padeltech.co.uk |
-| Red Raven Solutions | UK distributor for PadelCreations | redravensolutions.co.uk |
-| Serve UP Padel | Facility developer, flexible funding | serveuppadel.co.uk |
-| UK Padel Courts | — | ukpadelcourts.com |
-| Express Padel Courts | — | expresspadelcourts.com |
-| **Portico Sport** | Spanish, 4000+ courts, SAPCA member UK, 10-year warranty | porticosport.com |
+| **Portico Sport** | Spanish, 4000+ courts, SAPCA UK member, 10-year warranty | [porticosport.com](https://www.porticosport.com/) |
+| Padel Tech | UK distributor for AFP/adidas, 5+ year warranty | [padeltech.co.uk](https://www.padeltech.co.uk/) |
+| Red Raven Solutions | UK distributor for PadelCreations | [redravensolutions.co.uk](https://www.redravensolutions.co.uk/) |
+| Serve UP Padel | Facility developer, flexible funding | [serveuppadel.co.uk](https://www.serveuppadel.co.uk/) |
+| UK Padel Courts | — | [ukpadelcourts.com](https://www.ukpadelcourts.com/) |
+| Express Padel Courts | — | [expresspadelcourts.com](https://www.expresspadelcourts.com/) |
 
 ### Portico Sport (Recommended)
 
 - Spanish manufacturer, 15+ years experience
-- 4,000+ courts worldwide
-- SAPCA member UK
+- 4,000+ courts worldwide, SAPCA member UK
 - 10-year structural warranty
-- **Club Court model** recommended for commercial use
-- Pricing: ~€18k EXWORK, realistically £25-35k delivered/installed UK
-- Notable UK clients: Battersea Power Station, Trafford, Gloucester
+- **Club Court model** recommended for commercial
+- Pricing: ~€18k EXWORK, £25-35k delivered/installed UK
+- UK clients: Battersea Power Station, Trafford, Gloucester
 
 ---
 
-## Real-World Examples (Reddit)
+## Real-World Examples
 
-| Project | Details | Cost |
-|---------|---------|------|
-| 10+ court site | 87% occupancy | £1.3m/year bookings |
+| Project | Details | Source |
+|---------|---------|--------|
+| 10+ court site | 87% occupancy, £1.3m/year bookings | [Reddit](https://www.reddit.com/r/padel/) |
 | Padium Canary Wharf | Premium build | £1.8m total |
 | Mejorset panoramic | Court + lights + turf + install | £35k inc VAT |
 
@@ -84,14 +109,15 @@
 
 ## Sources
 
-- LTA Design & Cost Guidance
-- Reddit r/padel firsthand experiences
-- Portico Sport website
-- UK supplier websites
+- [LTA Facility Guidance](https://www.lta.org.uk/about-us/tennis-padel-britain/padel/)
+- [Reddit r/padel](https://www.reddit.com/r/padel/) — firsthand cost experiences
+- [Portico Sport](https://www.porticosport.com/)
+- [The Padel Paper](https://thepadelpaper.com/)
+- [Sport England Design Guidance](https://www.sportengland.org/guidance-and-support/facilities-and-planning/design-and-cost-guidance)
 
 ---
 
 ## Next Steps
 
-- [ ] Request quotes from Portico Sport, Padel Tech, Red Raven
-- [ ] Specify: 2x indoor courts, 4x indoor courts
+- [ ] Request quotes: Portico Sport, Padel Tech, Red Raven
+- [ ] Specify: 2x indoor, 2x outdoor on tarmac with canopy
