@@ -1,12 +1,13 @@
 # Property Search
 
-*30mi from Luton · Last updated 3 Feb 2026*
+*30mi from Luton · Last updated 5 Feb 2026*
 
 ## 🏆 Top Picks
 
 | Property | Why | Link |
 |----------|-----|------|
 | Laporte Retail Park | Best location (IN Luton) | [Analysis →](properties/laporte-retail-park) |
+| **Britannia Estate 11A** 🆕 | IN Luton, fits 4 courts, £122k/yr | [Listing](https://www.novaloca.com/industrial-unit/to-let/luton/unit-11a-britannia-estate/290137) |
 | Slip End | Best value (£145k for 2.17 acres) | [Analysis →](properties/slip-end) |
 | Centric Stevenage | Best ceiling (9m) | [Analysis →](properties/centric-stevenage) |
 | Curo Park St Albans | Great ceiling (8-9.8m) | [Analysis →](properties/curo-park-st-albans) |
@@ -15,6 +16,7 @@
 
 | Property | Size | Ceiling | Rent | Link |
 |----------|------|---------|------|------|
+| **Britannia Estate 11A** 🆕 | 16,227 sq ft | TBC | £122k/yr | [Listing](https://www.novaloca.com/industrial-unit/to-let/luton/unit-11a-britannia-estate/290137) |
 | Centric Stevenage | 10-26k sq ft | **9m** | POA | [Listing](https://brasierfreeth.com/properties/centric-gunnels-wood-road-stevenage/) |
 | Curo Park St Albans | 12,818 sq ft | **8-9.8m** | POA | [Listing](https://www.whichwarehouse.com/warehouse/203687/) |
 | Trade City St Albans | 4-6.5k sq ft | TBC | POA | [Listing](https://brasierfreeth.com/properties/trade-city-ashley-road-st-albans/) |
@@ -23,6 +25,8 @@
 | Parkbury St Albans | 45-77k sq ft | **10m** | POA | [Listing](https://brasierfreeth.com/properties/unit-7-parkbury-handley-page-way-st-albans-2/) |
 | 11 Gunnels Wood Park | 14,587 sq ft | TBC | £9/sq ft | [Listing](https://brasierfreeth.com/properties/11-gunnels-wood-park-gunnels-wood-road-stevenage/) |
 | Ridge Hill Shenley | 5,000 sq ft | N/A | £6/sq ft | [Listing](https://brasierfreeth.com/properties/ridge-hill-stables-yard-shenley/) |
+
+*Note: Unit 9D Britannia Estate (4,341 sq ft, £36.9k/yr) also available but borderline too small for 2 courts.*
 
 ## Land & Open Sites
 
