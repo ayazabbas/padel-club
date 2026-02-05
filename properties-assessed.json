@@ -47,6 +47,21 @@
       "distanceFromLuton": "10 miles"
     },
     {
+      "id": "sovereign-park-lu2",
+      "address": "Unit 1 Sovereign Park, Laporte Way, Luton",
+      "type": "Industrial/Warehouse",
+      "size_sqft": "TBC - enquire",
+      "ceiling_height": "TBC - enquire",
+      "rent": "TBC",
+      "source": "Hollis Hockley",
+      "url": "https://search.hollishockley.co.uk/properties/186383-unit-1-sovereign-park-laporte-way-luton",
+      "notes": "Extensively refurbished unit with secure yard and 46 car parking spaces. LUTON LOCATION. Details need verification - agent website redirect issue.",
+      "status": "enquire",
+      "suitability": "unknown",
+      "assessedDate": "2026-02-05",
+      "distanceFromLuton": "0 miles (IN Luton)"
+    },
+    {
       "id": "president-way-lu2",
       "address": "President Way, Luton LU2 9NY",
       "type": "Warehouse",
@@ -497,6 +512,20 @@
       "address": "Unit 2 Maxted Court, Hemel Hempstead",
       "reason": "Ceiling too low (5.7m, need 7m min for padel) and under offer",
       "assessedDate": "2026-02-03"
+    },
+    {
+      "id": "swallowdale-lane-hemel",
+      "address": "3 Swallowdale Lane, Hemel Hempstead HP2 7FZ",
+      "type": "Warehouse",
+      "size_sqft": 54695,
+      "ceiling_height": "8m clear eaves height",
+      "rent": "£825,000/year (£15.08/sq ft)",
+      "source": "Brasier Freeth / Rightmove",
+      "url": "https://brasierfreeth.com/properties/3-swallowdale-lane-hemel-hempstead/",
+      "reason": "UNDER OFFER. Also way too large (54,695 sq ft) and expensive (£825k/year) for padel. Need 12-20k sq ft max. Ceiling height excellent but not feasible.",
+      "status": "rejected",
+      "assessedDate": "2026-02-05",
+      "distanceFromLuton": "12 miles"
     }
   ],
   "priority": [
@@ -518,7 +547,7 @@
     "ideal": "10m (for professional/tournament standard)",
     "note": "Most industrial units are 5-7m. Properties with 8m+ are rare and highly desirable for padel."
   },
-  "lastSearchDate": "2026-02-03",
+  "lastSearchDate": "2026-02-05",
   "searchSources": [
     "OnTheMarket",
     "LoopNet",

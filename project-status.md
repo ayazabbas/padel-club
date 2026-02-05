@@ -7,7 +7,7 @@ title: Project Status
 
 *Live tracker for Luton Padel Club development*
 
-**Last Updated:** 3 February 2026 (17:30)
+**Last Updated:** 5 February 2026 (02:00) — Nightly research update
 
 ---
 
@@ -51,6 +51,7 @@ title: Project Status
 | Laporte Retail Park | 🟡 Enquiry needed | ⭐ Best location |
 | Slip End | 🟡 Enquiry needed | ⭐ Best value |
 | Centric Stevenage | 🟡 Enquiry needed | ⭐ Best ceiling |
+| **Sovereign Park** | 🟡 **NEW** - Enquire | 🟡 Luton location! |
 | President Way | 🟡 Ceiling TBC | 🟡 Promising |
 | Sundon Park | 🟡 Ceiling TBC | 🟡 Promising |
 | Curo Park | ✅ Assessed | ⭐ Great ceiling |
@@ -66,6 +67,7 @@ title: Project Status
 - [ ] Confirm ceiling heights — President Way & Sundon Park  
 - [ ] Contact Brasier Freeth — Centric Stevenage pricing
 - [ ] Contact Vantage Land — Slip End (availability, utilities)
+- [ ] **NEW:** Contact Hollis Hockley — Sovereign Park, Laporte Way (size, ceiling, rent)
 
 📋 **[Detailed task list →](tasks/property-enquiries)**
 

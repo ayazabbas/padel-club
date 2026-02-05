@@ -2,7 +2,7 @@
 
 *Real experiences from padel club owners and builders. Updated regularly from Reddit r/padel.*
 
-*Last Updated: 3 February 2026*
+*Last Updated: 5 February 2026*
 
 ---
 
@@ -28,6 +28,28 @@
 > "Break even depends on the site, average around **18-24 months**. We did a feasibility study for a hotel in Wales and the break even was 11 months."
 
 Source: [Reddit AMA - UK Court Builder](https://www.reddit.com/r/padel/comments/1iwkpce/i_build_padel_courts_and_clubs_in_the_uk_ama/)
+
+### Europe vs US Economics (Jan 2026 Reddit)
+
+A major analysis on r/padel highlighted the funding gap between US and European padel:
+
+**European advantages:**
+- Ireland: €230M in community sports grants, with tennis clubs receiving €60-120k each for padel courts
+- Germany: Federal, state, and municipal sports facility funding available
+- Italy: Significant municipal investment in community sports
+
+**US challenges:**
+- Almost entirely private developer funding
+- Overhead costs in major cities: **$140,000-$750,000/year** just to keep doors open (rent, insurance, labor)
+- No public subsidy = must target premium pricing to make numbers work
+
+> "When you can only fit 3 courts in your space and your rent is ~$40-50K/month, you have to target the demographic that can and will pay."
+
+**Takeaway for UK:** While we don't have European-level grants, Sport England funding exists. The key is keeping overhead low through smart property selection.
+
+Source: [Reddit - US Padel Economics Analysis](https://www.reddit.com/r/padel/comments/1qqocqf/i_said_us_padel_is_assbackward_heres_what_ensued/)
+
+---
 
 ### Portugal Club Owner (Nov 2024 AMA)
 
@@ -71,6 +93,18 @@ Source: [Reddit - Funding Discussion](https://www.reddit.com/r/padel/comments/1h
 > "Unfortunately operators have gone into administration using this approach [automated/self-sufficient]. A successful club needs to have a good strategy, social experience, dwell time, coaching program etc."
 
 Source: [Reddit AMA - UK Court Builder](https://www.reddit.com/r/padel/comments/1iwkpce/i_build_padel_courts_and_clubs_in_the_uk_ama/)
+
+### UK Quality Concerns (SAPCA Warning)
+
+The UK's Sports and Play Construction Association (SAPCA) raised alarms about declining build standards as demand surges:
+- Wobbling glass panels
+- Structural issues
+- Courts with impervious concrete that fills with water
+- One operator wasted £50,000 on a court they had to dig up and rebuild
+
+**Lesson:** Don't rush to meet demand by cutting corners. Vet builders carefully.
+
+Source: [The Padel Paper - SAPCA Safety](https://thepadelpaper.com/padel-court-safety-sapca-richard-shaw/)
 
 ---
 
@@ -118,9 +152,39 @@ Counter-view from operators: Commission fees add up, prefer own booking system f
 - [Reddit: UK Padel Market Update](https://www.reddit.com/r/padel/comments/1l9fc0v/an_update_on_the_uk_padel_market/) (Jun 2025)
 - [Reddit: Funding a Padel Startup](https://www.reddit.com/r/padel/comments/1h4d26i/best_way_of_funding_a_padel_start_up_business/) (Dec 2024)
 - [Reddit: Economics of Running Courts](https://www.reddit.com/r/padel/comments/y24yri/padel_owners_help_understanding_economics_of/) (Oct 2022)
+- [Reddit: US vs Europe Padel Economics](https://www.reddit.com/r/padel/comments/1qqocqf/i_said_us_padel_is_assbackward_heres_what_ensued/) (Jan 2026) ⭐ NEW
+- [The Padel Paper: SAPCA Court Safety Warning](https://thepadelpaper.com/padel-court-safety-sapca-richard-shaw/) (Jan 2026) ⭐ NEW
+
+---
+
+---
+
+## UK Market Size (2025)
+
+Per the Lawn Tennis Association:
+- **1,000 padel courts** across 325 venues in the UK (2025)
+- Up from only **68 courts in 2019**
+- ~14x growth in 6 years
+
+Source: [Wikipedia - Padel](https://en.wikipedia.org/wiki/Padel)
+
+---
+
+## Competitor News
+
+### Padelplex (Nottingham) — £1m Complex
+
+New padel community launching in Nottingham, backed by:
+- Richard Johal (Nottingham hotelier)
+- Rob Darby (founder of 200 Degrees coffee)
+- James Taylor (former England & Notts cricketer)
+
+First complex submitted for planning on a poker club car park.
+
+Source: [BBC News - Jan 2026](https://www.bbc.co.uk/news/articles/cyv5nqjzjrzo)
 
 ---
 
 ## Notes
 
-*This page is updated regularly with new insights from r/padel and other sources. Last scan: 3 Feb 2026.*
+*This page is updated regularly with new insights from r/padel and other sources. Last scan: 5 Feb 2026.*
