@@ -7,7 +7,27 @@ title: Project Status
 
 *Live tracker for Luton Padel Club development*
 
-**Last Updated:** 5 February 2026 (02:00) — Nightly research update
+**Last Updated:** 5 February 2026 (11:00) — Nightly research update
+
+---
+
+## ⚠️ Competitor Alert: Padel Pass Luton NOW OPEN
+
+**Direct competition has arrived in Luton!**
+
+| Detail | Value |
+|--------|-------|
+| Location | Venue 360, 20 Gipsy Lane, LU1 3JH |
+| Courts | 2 covered (9.5m canopy) |
+| Hours | 6am-11pm, 7 days |
+| Price | £32/hour |
+| Facilities | Café, bar, coaching, changing rooms |
+
+**Implications:**
+- Luton market is no longer "virgin territory"
+- Need to differentiate: larger facility, different location, competitive pricing
+- Consider south/east Luton to avoid overlap (they're north, near M1 J10)
+- Positive: proves demand exists in Luton area
 
 ---
 
@@ -51,7 +71,8 @@ title: Project Status
 | Laporte Retail Park | 🟡 Enquiry needed | ⭐ Best location |
 | Slip End | 🟡 Enquiry needed | ⭐ Best value |
 | Centric Stevenage | 🟡 Enquiry needed | ⭐ Best ceiling |
-| **Sovereign Park** | 🟡 **NEW** - Enquire | 🟡 Luton location! |
+| Sovereign Park | 🟡 Enquire | 🟡 Luton location! |
+| **Britannia 11A** | 🟡 **NEW** - Enquire | 🟡 16k sqft in Luton! Ceiling TBC |
 | President Way | 🟡 Ceiling TBC | 🟡 Promising |
 | Sundon Park | 🟡 Ceiling TBC | 🟡 Promising |
 | Curo Park | ✅ Assessed | ⭐ Great ceiling |
@@ -67,7 +88,8 @@ title: Project Status
 - [ ] Confirm ceiling heights — President Way & Sundon Park  
 - [ ] Contact Brasier Freeth — Centric Stevenage pricing
 - [ ] Contact Vantage Land — Slip End (availability, utilities)
-- [ ] **NEW:** Contact Hollis Hockley — Sovereign Park, Laporte Way (size, ceiling, rent)
+- [ ] Contact Hollis Hockley — Sovereign Park, Laporte Way (size, ceiling, rent)
+- [ ] **NEW:** Contact Kirkby Diamond — Britannia Estate Unit 11A ceiling height (16k sqft, £122k/yr, in Luton!)
 
 📋 **[Detailed task list →](tasks/property-enquiries)**
 

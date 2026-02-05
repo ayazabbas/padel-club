@@ -2,7 +2,7 @@
 
 *Real experiences from padel club owners and builders. Updated regularly from Reddit r/padel.*
 
-*Last Updated: 5 February 2026*
+*Last Updated: 5 February 2026 (11:00)*
 
 ---
 
@@ -10,12 +10,14 @@
 
 | Topic | Insight |
 |-------|---------|
-| **Revenue** | UK courts generating £100-150k/year per court at good occupancy |
+| **Revenue** | ~£160k/year per covered court (7am-11pm, 7 days) |
 | **Occupancy** | Indoor/covered: ~71% average. Outdoor: ~45% |
 | **Break-even** | 18-24 months typical, can be 11 months for ideal sites |
 | **Rent** | Should be 1/7 to 1/8 of revenue for healthy margins |
-| **Staff** | Human connection essential — automation doesn't work for clubs |
-| **Warning** | Some operators have gone into administration with "hands-off" approach |
+| **Site Finding** | ~90% of prospects fail to secure heads of terms |
+| **Planning Costs** | Can reach £18k in reports alone for 2-court site! |
+| **Competition** | ⚠️ Padel Pass Luton (2 courts) NOW OPEN at Venue 360 |
+| **Market** | ~900 courts in UK, doubling yearly, saturation at ~7-8k |
 
 ---
 
@@ -147,15 +149,62 @@ Counter-view from operators: Commission fees add up, prefer own booking system f
 
 ## Sources
 
+- [Reddit: UK Padel Market Update](https://www.reddit.com/r/padel/comments/1l9fc0v/an_update_on_the_uk_padel_market/) (Jun 2025) ⭐ KEY
 - [Reddit AMA: I build Padel courts in UK](https://www.reddit.com/r/padel/comments/1iwkpce/i_build_padel_courts_and_clubs_in_the_uk_ama/) (Feb 2025)
 - [Reddit AMA: I own a Padel Club](https://www.reddit.com/r/padel/comments/1gitmxk/i_own_a_padel_club_ask_me_anything/) (Nov 2024)
-- [Reddit: UK Padel Market Update](https://www.reddit.com/r/padel/comments/1l9fc0v/an_update_on_the_uk_padel_market/) (Jun 2025)
 - [Reddit: Funding a Padel Startup](https://www.reddit.com/r/padel/comments/1h4d26i/best_way_of_funding_a_padel_start_up_business/) (Dec 2024)
 - [Reddit: Economics of Running Courts](https://www.reddit.com/r/padel/comments/y24yri/padel_owners_help_understanding_economics_of/) (Oct 2022)
-- [Reddit: US vs Europe Padel Economics](https://www.reddit.com/r/padel/comments/1qqocqf/i_said_us_padel_is_assbackward_heres_what_ensued/) (Jan 2026) ⭐ NEW
-- [The Padel Paper: SAPCA Court Safety Warning](https://thepadelpaper.com/padel-court-safety-sapca-richard-shaw/) (Jan 2026) ⭐ NEW
+- [Reddit: US vs Europe Padel Economics](https://www.reddit.com/r/padel/comments/1qqocqf/i_said_us_padel_is_assbackward_heres_what_ensued/) (Jan 2026)
+- [The Padel Paper: SAPCA Court Safety Warning](https://thepadelpaper.com/padel-court-safety-sapca-richard-shaw/) (Jan 2026)
+- [Padel Pass Luton](https://padelpass.co.uk/padel-pass-luton/) — Local competitor intel
 
 ---
+
+---
+
+## UK Market Update (June 2025)
+
+From a UK court builder's AMA (June 2025), key market intelligence:
+
+**Supply & Demand:**
+- ~900 courts currently in UK, 55% outdoor / 45% indoor
+- Court numbers have **doubled every year** for last 5 years
+- Saturation point estimated at 7,000-8,000 courts
+- Significant growth runway still ahead
+
+**Site Acquisition Challenges:**
+> "Finding a site is still the hardest part of the whole process. I've got one client who's just done his 38th site visit in Essex and he still doesn't have heads of terms."
+
+> "c.90% of our prospects do not have heads of terms at a site."
+
+Key barrier: Most suitable indoor warehouses are owned by risk-averse pension funds who see leisure as risky.
+
+**Planning Reality Check:**
+> "Planning permission is still an absolute farce. We're working on a site in Stockport currently and the amount of professional reports required to submit with the planning application could come close to £18k. This is for a 2 court covered facility."
+
+Required reports can include: acoustic assessments, drainage, ecology, transport... even for small sites.
+
+**Outdoor vs Indoor Economics:**
+> "Outdoor with a canopy is becoming a quicker and more feasible route to market. Lower rental costs and business rates means a quicker and safer investment in my opinion."
+
+Despite higher capex (groundworks + canopy), lower opex makes outdoor covered courts attractive.
+
+**Revenue Benchmark (Updated):**
+> "One covered court, operating from 7am to 11pm, 7 days a week, is generating around **£160k per year**."
+
+This is based on ~71% occupancy for covered courts.
+
+**LTA Funding Change:**
+- LTA interest-free loan scheme has ENDED
+- Now 5% interest with challenging terms (e.g., 15 hours/week public access per court)
+- Tennis clubs becoming less receptive to padel additions
+
+**Council Opportunities:**
+> "Councils are starting to clock on to the opportunity. We've seen a couple of examples where local authorities have identified a piece of land they own and have gone out to tender to Padel operators."
+
+Reason: Councils either can't afford to build themselves (6 are bankrupt!) or want to avoid liability risk.
+
+Source: [Reddit - UK Padel Market Update](https://www.reddit.com/r/padel/comments/1l9fc0v/an_update_on_the_uk_padel_market/) (June 2025) ⭐ NEW
 
 ---
 
@@ -171,6 +220,31 @@ Source: [Wikipedia - Padel](https://en.wikipedia.org/wiki/Padel)
 ---
 
 ## Competitor News
+
+### 🚨 Padel Pass Luton — NOW OPEN (Direct Competition!)
+
+**Location:** Venue 360, 20 Gipsy Lane, Luton LU1 3JH
+
+**Facilities:**
+- 2 canopy-covered courts (9.5m ceiling — tallest canopy around!)
+- Open 6am-11pm, 7 days/week
+- Café bar, beer garden, changing rooms, club shop
+- Free parking, EV charging
+- Full coaching program
+
+**Pricing:** £32/hour (via Playtomic)
+
+**Team:** Founded by Jack Howe, Tom Howe, Alex March (from Harpenden)
+
+**Expansion:** Also opening courts at:
+- Harpenden Rugby Club (4 covered courts)
+- Rothamsted Park, Harpenden (2 open courts)
+
+**Takeaway:** This is now direct competition in Luton. Their strengths: community focus, coaching, existing venue partnership (shared facilities/footfall). Our opportunity: larger facility (3-4 courts), different location (south/east Luton to avoid overlap), possibly better pricing.
+
+Source: [Padel Pass Website](https://padelpass.co.uk/padel-pass-luton/) | [Playtomic](https://playtomic.com/clubs/padel-pass-luton-pre-launch-packages-available-open-summer-2025)
+
+---
 
 ### Padelplex (Nottingham) — £1m Complex
 

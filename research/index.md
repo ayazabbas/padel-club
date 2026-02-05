@@ -22,11 +22,13 @@ All research and findings for the padel club project.
 
 | Metric | Value | Source |
 |--------|-------|--------|
-| Revenue per court | £100-150k/year | Reddit operators |
+| Revenue per court | **~£160k/year** (covered, 7am-11pm) | UK builder Jun 2025 |
 | Indoor occupancy | ~71% | Playtomic data |
 | Outdoor occupancy | ~45% | Playtomic data |
 | Break-even | 18-24 months | UK court builder |
 | Rent target | <15% of revenue | Club owner AMA |
+| UK courts | ~900 (doubling yearly) | Jun 2025 market update |
+| Saturation point | ~7,000-8,000 courts | Builder estimate |
 
 ---
 
@@ -41,7 +43,11 @@ All research and findings for the padel club project.
 - Class E covers: padel, gym, café, co-working — can switch freely
 - Open land requires full planning application
 - ⭐ **Luton has NO CIL** — significant cost advantage vs neighbouring areas
-- Padel Pass (2 courts) approved at Venue 360 in 2025 — local precedent exists
+- Planning reports can cost £18k+ even for 2-court site
+
+**Competition:**
+- ⚠️ **Padel Pass Luton NOW OPEN** (Venue 360, 2 courts, £32/hr)
+- Need to differentiate on location (south/east Luton) and scale (3-4 courts)
 
 **Booking:**
 - Custom build recommended (founders are devs)

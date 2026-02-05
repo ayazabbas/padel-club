@@ -62,6 +62,38 @@
       "distanceFromLuton": "0 miles (IN Luton)"
     },
     {
+      "id": "britannia-estate-11a",
+      "address": "Unit 11A Britannia Estate, Leagrave Road, Luton LU3 1RJ",
+      "type": "Industrial/Warehouse",
+      "size_sqft": 16227,
+      "ceiling_height": "TBC - enquire (older 1920s-40s building)",
+      "rent": "£122,000/year",
+      "rentPerSqFt": "£7.52/sq ft",
+      "source": "Kirkby Diamond / Novaloca",
+      "url": "https://www.novaloca.com/industrial-unit/to-let/luton/unit-11a-britannia-estate/290137",
+      "notes": "Large unit in established multi-let estate. Could fit 4 courts if ceiling sufficient. Secure gated access, CCTV, communal WC. Rent incentives available. BUT: Older building (1920s-40s) so ceiling may be low - MUST confirm before viewing. In Luton!",
+      "status": "enquire",
+      "suitability": "unknown",
+      "assessedDate": "2026-02-05",
+      "distanceFromLuton": "0 miles (IN Luton)"
+    },
+    {
+      "id": "britannia-estate-9d",
+      "address": "Unit 9D Britannia Estate, Leagrave Road, Luton LU3 1RJ",
+      "type": "Industrial/Warehouse",
+      "size_sqft": 4341,
+      "ceiling_height": "TBC - enquire (older 1920s-40s building)",
+      "rent": "£36,900/year",
+      "rentPerSqFt": "£8.50/sq ft",
+      "source": "Kirkby Diamond / Novaloca",
+      "url": "https://www.novaloca.com/industrial-unit/to-let/luton/unit-9d-britannia-estate/290139",
+      "notes": "Smaller unit - borderline for 2 courts (need ~5000 sq ft). Same estate as 11A. Rent incentives available. Older building so ceiling may be low. In Luton!",
+      "status": "enquire",
+      "suitability": "low",
+      "assessedDate": "2026-02-05",
+      "distanceFromLuton": "0 miles (IN Luton)"
+    },
+    {
       "id": "president-way-lu2",
       "address": "President Way, Luton LU2 9NY",
       "type": "Warehouse",
@@ -547,7 +579,7 @@
     "ideal": "10m (for professional/tournament standard)",
     "note": "Most industrial units are 5-7m. Properties with 8m+ are rare and highly desirable for padel."
   },
-  "lastSearchDate": "2026-02-05",
+  "lastSearchDate": "2026-02-05 (nightly scan)",
   "searchSources": [
     "OnTheMarket",
     "LoopNet",
