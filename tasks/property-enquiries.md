@@ -20,7 +20,21 @@ Contact all shortlisted property agents, gather missing information, and arrange
 
 ## Immediate Tasks (This Week)
 
-### 1. Laporte Retail Park — David Charles
+### 🆕 1. Britannia Estate 11A — Kirkby Diamond (NEW - IN LUTON!)
+- [ ] Contact Kirkby Diamond via Novaloca listing
+- [ ] **Ask:**
+  - Internal ceiling/eaves height (need 7m+, building is 1920s-40s)
+  - Current availability and lease terms
+  - Would landlord accept leisure/sports use?
+- [ ] If ceiling 7m+, add to top priority list
+- [ ] Record response in property tracker
+
+📧 [Use enquiry template →](../enquiry-templates#britannia-estate-kirkby-diamond)  
+🔗 [Listing](https://www.novaloca.com/industrial-unit/to-let/luton/unit-11a-britannia-estate/290137)
+
+**Why priority:** 16,227 sq ft IN Luton, £122k/yr (£7.52/sq ft) — could fit 4 courts if ceiling is sufficient.
+
+### 2. Laporte Retail Park — David Charles
 - [ ] Send enquiry via website contact form
 - [ ] Call if no response within 48 hours
 - [ ] **Ask:**
@@ -32,7 +46,7 @@ Contact all shortlisted property agents, gather missing information, and arrange
 
 📧 [Use enquiry template →](../enquiry-templates#laporte-retail-park-david-charles)
 
-### 2. President Way & Sundon Park — Ceiling Heights
+### 3. President Way & Sundon Park — Ceiling Heights
 - [ ] Contact agents for both properties
 - [ ] **Ask:** Internal ceiling/eaves height (need 7m+ minimum)
 - [ ] Update property files with responses
@@ -40,7 +54,7 @@ Contact all shortlisted property agents, gather missing information, and arrange
 
 📧 [Use enquiry template →](../enquiry-templates#president-way--sundon-park-ceiling-height-check)
 
-### 3. Centric Stevenage — Brasier Freeth
+### 4. Centric Stevenage — Brasier Freeth
 - [ ] Call +44 1707 392080 or use website
 - [ ] **Ask:**
   - Pricing for smallest unit (~10,000 sq ft)
@@ -50,7 +64,7 @@ Contact all shortlisted property agents, gather missing information, and arrange
 
 📧 [Use enquiry template →](../enquiry-templates#centric-stevenage-brasier-freeth)
 
-### 4. Slip End — Vantage Land
+### 5. Slip End — Vantage Land
 - [ ] Contact via vantageland.co.uk
 - [ ] **Ask:**
   - Is site still available?
@@ -65,7 +79,7 @@ Contact all shortlisted property agents, gather missing information, and arrange
 
 ## This Month
 
-### 5. Arrange Viewings
+### 6. Arrange Viewings
 - [ ] Shortlist top 3 properties based on enquiry responses
 - [ ] Schedule viewings (allow 1-2 hours each)
 - [ ] **During viewing, check:**
@@ -78,7 +92,7 @@ Contact all shortlisted property agents, gather missing information, and arrange
 - [ ] Take photos/video
 - [ ] Update property pages with viewing notes
 
-### 6. Get Court Quotes
+### 7. Get Court Quotes
 - [ ] Contact Portico Sport — [porticosport.com](https://www.porticosport.com/)
   - Request quote for 4 indoor courts
   - Ask about UK installation timeline
@@ -89,7 +103,7 @@ Contact all shortlisted property agents, gather missing information, and arrange
 - [ ] Contact Red Raven Solutions — [redravensolutions.co.uk](https://www.redravensolutions.co.uk/)
   - Get third quote for comparison
 
-### 7. Research Ongoing
+### 8. Research Ongoing
 - [ ] Monitor Rightmove/Zoopla for new listings
 - [ ] Check overnight research job results daily
 - [ ] Update `properties-assessed.json` with any new finds
@@ -117,4 +131,4 @@ When complete, you should have:
 
 ---
 
-*Last updated: 3 February 2026*
+*Last updated: 5 February 2026*

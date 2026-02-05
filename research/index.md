@@ -25,10 +25,12 @@ All research and findings for the padel club project.
 | Revenue per court | **~£160k/year** (covered, 7am-11pm) | UK builder Jun 2025 |
 | Indoor occupancy | ~71% | Playtomic data |
 | Outdoor occupancy | ~45% | Playtomic data |
-| Break-even | 18-24 months | UK court builder |
+| Break-even | 12-18 months (4 courts) | Financial model |
 | Rent target | <15% of revenue | Club owner AMA |
 | UK courts | ~900 (doubling yearly) | Jun 2025 market update |
 | Saturation point | ~7,000-8,000 courts | Builder estimate |
+| Site finding | ~90% fail to secure | Jun 2025 update |
+| Planning reports | Up to £18k! | UK builder warning |
 
 ---
 

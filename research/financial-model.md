@@ -7,7 +7,7 @@ title: Financial Model
 
 *Revenue projections, costs, and break-even scenarios for 2-4 court padel club.*
 
-*Last Updated: 3 February 2026*
+*Last Updated: 5 February 2026*
 
 ---
 
@@ -40,7 +40,7 @@ title: Financial Model
 | Base Case | 16h × £36 × 65% × 360 | **£134,784** |
 | Optimistic | 17h × £40 × 75% × 365 | **£185,910** |
 
-*Note: UK courts reportedly generating £100-150k/year at good sites.*
+*Note: UK covered courts reportedly generating ~£160k/year at good sites (Jun 2025 data).*
 
 ---
 
@@ -244,4 +244,4 @@ For an investor contributing £100k:
 
 ---
 
-*Model last updated: 3 February 2026. All figures are estimates — get actual quotes before committing.*
+*Model last updated: 5 February 2026. All figures are estimates — get actual quotes before committing.*

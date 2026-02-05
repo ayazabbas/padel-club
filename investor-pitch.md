@@ -40,10 +40,12 @@ We're seeking **£100,000** in equity investment to launch a 4-court indoor pade
 | Factor | Detail |
 |--------|--------|
 | Population | 225,000 |
-| Existing Courts | 2 (PadelPass at Venue360) |
+| Existing Courts | 2 (Padel Pass at Venue360 — opened 2025) |
 | Courts per Capita | 1:112,500 |
 | National Average | 1:35,000 (and growing) |
 | **Gap** | **4-6 courts needed just to match average** |
+
+*Competition validates demand — Padel Pass frequently fully booked at £32/hr.*
 
 ### Location Advantage
 
@@ -149,7 +151,7 @@ For £100,000 investment at 25% equity:
 
 | Metric | Value | Source |
 |--------|-------|--------|
-| Revenue per court | £100-150k/year | Reddit AMA |
+| Revenue per court | £100-160k/year | Reddit AMA, UK builder |
 | Indoor occupancy | 65-75% | Playtomic UK data |
 | Break-even | 11-24 months | UK court builder |
 | Top UK club | £1.3m/year (10 courts) | Operator interview |
@@ -262,4 +264,4 @@ For £100,000 investment at 25% equity:
 
 ---
 
-*Last Updated: 3 February 2026*
+*Last Updated: 5 February 2026*

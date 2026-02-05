@@ -7,6 +7,32 @@ title: Enquiry Templates
 
 Ready-to-send emails for priority properties.
 
+*Last Updated: 5 February 2026*
+
+---
+
+## Britannia Estate (Kirkby Diamond)
+
+**To:** Via Novaloca listing or Kirkby Diamond direct
+**Subject:** Enquiry - Unit 11A Britannia Estate, Leagrave Road, Luton
+
+Hi,
+
+I'm enquiring about Unit 11A at Britannia Estate, Leagrave Road, Luton LU3 1RJ (Novaloca ref: 290137).
+
+We're a group of four partners looking to develop an indoor sports facility (padel courts) and would like to understand:
+
+1. What is the internal ceiling/eaves height? (We require minimum 7m clear height)
+2. Is the unit still available?
+3. What are the current lease terms?
+4. Would the landlord consider a leisure/sports use tenant (Class E(d))?
+
+The 16,227 sq ft size is ideal for our needs. We're serious enquirers with capital ready.
+
+Best regards,
+[Name]
+[Phone]
+
 ---
 
 ## Laporte Retail Park (David Charles)
