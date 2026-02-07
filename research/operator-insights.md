@@ -2,7 +2,7 @@
 
 *Real experiences from padel club owners and builders. Updated regularly from Reddit r/padel.*
 
-*Last Updated: 5 February 2026 (11:00)*
+*Last Updated: 7 February 2026*
 
 ---
 
@@ -261,4 +261,4 @@ Source: [BBC News - Jan 2026](https://www.bbc.co.uk/news/articles/cyv5nqjzjrzo)
 
 ## Notes
 
-*This page is updated regularly with new insights from r/padel and other sources. Last scan: 5 Feb 2026.*
+*This page is updated regularly with new insights from r/padel and other sources. Last scan: 7 Feb 2026.*

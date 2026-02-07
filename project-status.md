@@ -7,7 +7,17 @@ title: Project Status
 
 *Live tracker for Luton Padel Club development*
 
-**Last Updated:** 5 February 2026 (11:00) — Nightly research update
+**Last Updated:** 7 February 2026 — Manual research update (overnight outage recovery)
+
+---
+
+## 📰 Market News
+
+**Vauxhall Luton Factory Redevelopment (Jan 2026)**
+- £400m industrial park planned for former Vauxhall van factory site
+- Planning application submitted to Luton Borough Council
+- Could include suitable industrial units when complete (2027+)
+- **Watch this space** — could be future opportunity
 
 ---
 
@@ -81,6 +91,10 @@ title: Project Status
 ---
 
 ## Immediate Actions
+
+### ⚠️ Note: Luton Planning Portal
+
+The Luton Borough Council planning portal is currently **offline for maintenance** (as of 7 Feb 2026). Unable to check for new sports/padel applications. Check again next week.
 
 ### This Week (3-9 Feb 2026)
 

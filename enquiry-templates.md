@@ -7,7 +7,7 @@ title: Enquiry Templates
 
 Ready-to-send emails for priority properties.
 
-*Last Updated: 5 February 2026*
+*Last Updated: 7 February 2026*
 
 ---
 

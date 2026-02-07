@@ -1,6 +1,6 @@
 # Property Search
 
-*30mi from Luton · Last updated 5 Feb 2026*
+*30mi from Luton · Last updated 7 Feb 2026*
 
 ## 🏆 Top Picks
 

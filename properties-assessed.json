@@ -528,6 +528,34 @@
   },
   "rejected": [
     {
+      "id": "greenhill-crescent-watford",
+      "address": "7 Greenhill Crescent, Watford Business Park, Watford WD18 8QU",
+      "type": "Industrial/Warehouse",
+      "size_sqft": 13849,
+      "ceiling_height": "7.26m clear rising to 10.59m at apex",
+      "rent": "£230,000/year (£16.60/sq ft)",
+      "source": "Brasier Freeth",
+      "url": "https://brasierfreeth.com/properties/7-greenhill-crescent-watford/",
+      "reason": "UNDER OFFER as of Feb 2026. Was excellent - 7.26m ceiling perfect for padel. Self-contained site 0.79 acres.",
+      "status": "rejected",
+      "assessedDate": "2026-02-07",
+      "distanceFromLuton": "22 miles"
+    },
+    {
+      "id": "horizon-point-hemel",
+      "address": "Unit 2 Horizon Point, Swallowdale Lane, Hemel Hempstead HP2 7FZ",
+      "type": "Industrial/Warehouse",
+      "size_sqft": 32537,
+      "ceiling_height": "8m eaves height",
+      "rent": "POA",
+      "source": "Brasier Freeth / Adroit Real Estate",
+      "url": "https://brasierfreeth.com/properties/unit-2-horizon-point-swallowdale-lane-hemel-hempstead/",
+      "reason": "TOO LARGE (32,537 sq ft - we need 5-20k max). Excellent 8m ceiling height though. Could explore sublease if desperate.",
+      "status": "rejected",
+      "assessedDate": "2026-02-07",
+      "distanceFromLuton": "12 miles"
+    },
+    {
       "id": "thornhill-rd-lu4",
       "address": "Thornhill Rd, Luton LU4 8EY",
       "reason": "Rejected per Ayaz brief",
@@ -579,7 +607,7 @@
     "ideal": "10m (for professional/tournament standard)",
     "note": "Most industrial units are 5-7m. Properties with 8m+ are rare and highly desirable for padel."
   },
-  "lastSearchDate": "2026-02-05 (nightly scan)",
+  "lastSearchDate": "2026-02-07 (manual scan - overnight outage recovery)",
   "searchSources": [
     "OnTheMarket",
     "LoopNet",
@@ -659,5 +687,5 @@
     "Set up property alerts with Brasier Freeth, Adroit, and Vantage Land",
     "Schedule viewing trip for top 3 properties once ceiling heights confirmed"
   ],
-  "notes": "Expanded search 30-mile radius on 2026-02-03. KEY FINDING: Most industrial units have 5-7m ceilings which is borderline/too low for padel. Found 3 properties with 8m+ ceilings: Centric Stevenage (9m), Curo Park St Albans (8-9.8m), and Parkbury St Albans (10m). NEW: Added land/open sites search for outdoor covered courts option. Top land find: Slip End (2.17 acres, £145k, inset from Green Belt)."
+  "notes": "Expanded search 30-mile radius on 2026-02-03. KEY FINDING: Most industrial units have 5-7m ceilings which is borderline/too low for padel. Found 3 properties with 8m+ ceilings: Centric Stevenage (9m), Curo Park St Albans (8-9.8m), and Parkbury St Albans (10m). NEW: Added land/open sites search for outdoor covered courts option. Top land find: Slip End (2.17 acres, £145k, inset from Green Belt). UPDATE 2026-02-07: 7 Greenhill Crescent Watford (excellent 7.26m ceiling) now UNDER OFFER - lost. FUTURE WATCH: Former Vauxhall Luton factory site undergoing £400m redevelopment into industrial park - could have suitable units when complete (2027+)."
 }
